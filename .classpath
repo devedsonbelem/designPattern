@@ -4,5 +4,8 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
 	<classpathentry kind="lib" path="/home/edson/Downloads/mongo-java-driver-3.12.12.jar"/>
+	<classpathentry kind="lib" path="/home/edson/Documents/ARQ JAVA DRIVER 2017/MD5/jcommon.jar"/>
+	<classpathentry kind="lib" path="/home/edson/Documents/ARQ JAVA DRIVER 2017/MD5/jcommon_javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/edson/Documents/ARQ JAVA DRIVER 2017/MD5/jcommon_source.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
